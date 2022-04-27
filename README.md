@@ -1,6 +1,6 @@
 ### Hello Universe, I'm Abhishta Gatya 👋
 
-- 🔭 I’m currently working at [Flick](https://flick.id) as Chief Technology Officer
+- 🔭 I’m currently working at [Flick](https://flick.id) as Tech Lead
 - 🌱 I’m currently learning Data Science and applying it to Financial Applications
 - 👯 I’m looking to collaborate on Financial Technology and Artificial Intelligence
 - 🤔 I’m looking for help with Applied Blockchain in Financial Systems
