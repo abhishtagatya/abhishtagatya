@@ -9,6 +9,7 @@
 class Me(Person):
 
   def __init__(self):
+    super().__init__()
     self.name = "Abhishta Adyatma"
     self.occupation = "Software Engineer, Advotics"
     self.nationality = "Indonesia"
