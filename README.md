@@ -11,7 +11,7 @@ class Me(Person):
   def __init__(self):
     super().__init__()
     self.name = "Abhishta Adyatma"
-    self.occupation = "Software Engineer, Advotics"
+    self.occupation = "Software Engineer, Unemployed"
     self.nationality = "Indonesia"
     
     self.skillset = set(
@@ -33,7 +33,7 @@ class Me(Person):
       'WORK': 'abhishta.adyatma@advotics.com',
       'PERSONAL': 'abhishtagatya@yahoo.com'
     }
-    self.hireable = False # Currently Employed
+    self.hireable = True # Currently Employed
 ```
 
 ---
