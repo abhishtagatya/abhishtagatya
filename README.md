@@ -30,7 +30,6 @@ class Me(Person):
     ]
     
     self.email = {
-      'WORK': 'abhishta.adyatma@advotics.com',
       'PERSONAL': 'abhishtagatya@yahoo.com'
     }
     self.hireable = True # Currently Employed
