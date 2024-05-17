@@ -4,4 +4,4 @@
 
 ---
 
-<img src="https://pbs.twimg.com/media/ExlKcKxWYAM3eoW?format=jpg&name=large" style="display: block;margin-left: auto;margin-right: auto;">
+<img src="dot_animation_transparent.gif" style="display: block;margin-left: auto;margin-right: auto;">
