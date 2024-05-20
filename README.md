@@ -4,4 +4,4 @@
 
 ---
 
-<img src="dot_animation_transparent.gif" style="display: block;margin-left: auto;margin-right: auto;">
+<img src="dot_morph.gif" style="display: block;margin-left: auto;margin-right: auto;">
